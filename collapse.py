@@ -1,5 +1,3 @@
-# Take a 5-min traffic data and collapse it into 60-min data
-#
 from datetime import datetime, time
 
 f = open("2016.csv", "r")

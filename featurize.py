@@ -1,7 +1,3 @@
-# Generate dummy-encoded file
-# from time series
-# by combining multiple data stream
-
 from datetime import datetime, time
 import json
 import csv

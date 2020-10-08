@@ -1,5 +1,3 @@
-# Combine multiple years into one 
-# for easy manipulation
 Y = ["2016", "2017", "2018", "2019"]
 L = None
 for y in Y:
